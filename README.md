@@ -7,5 +7,4 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 ## [Website Demo](https://alisamirali.github.io/Responsive-Restaurant-Website/)
-
-![Tasty Food Mockup](https://user-images.githubusercontent.com/62913154/166225346-413b8337-a54c-4754-9811-73bce09c8a07.png)
+![Tasty Food Mockup](https://user-images.githubusercontent.com/62913154/167013807-0b6cc22c-5ef1-4579-a4d2-bbf0392aa74a.png)
